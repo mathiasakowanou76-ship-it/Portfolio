@@ -35,7 +35,7 @@ const HeroSection = () => (
         transition={{ duration: 0.6, delay: 0.35 }}
         className="text-xl md:text-2xl text-primary font-display font-medium mb-6"
       >
-        Graphiste & Développeur Web
+        Graphiste, Développeur Web & Mobile
       </motion.p>
 
       <motion.p
