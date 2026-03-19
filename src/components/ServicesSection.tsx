@@ -2,7 +2,7 @@ import AnimatedSection from "./AnimatedSection";
 import { Palette, Globe, Smartphone, TrendingUp, Code2, Figma, Server, Database } from "lucide-react";
 
 const services = [
-  { icon: Palette, title: "Identité Visuelle", desc: "Création de logos, chartes graphiques et supports de communication cohérents et impactants." },
+  { icon: Palette, title: "Graphisme", desc: "Conception visuelle créative et professionnelle incluant logos, affiches, identités visuelles et supports de communication adaptés à vos besoins." },
   { icon: Globe, title: "Développement Web", desc: "Sites vitrines, e-commerce et applications web sur mesure, responsive et performants." },
   { icon: Smartphone, title: "Applications Mobiles", desc: "Conception et développement d'applications mobiles intuitives et ergonomiques." },
   { icon: TrendingUp, title: "Tunnels de Vente", desc: "Pages de vente optimisées pour la conversion avec des parcours clients efficaces." },
