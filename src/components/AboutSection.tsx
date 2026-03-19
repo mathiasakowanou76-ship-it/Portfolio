@@ -72,7 +72,7 @@ const AboutSection = () => (
       </div>
 
       <AnimatedSection delay={0.3}>
-        <div className="grid grid-cols-3 gap-8 mt-16 glass-card p-8 md:p-12 rounded-2xl">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 md:gap-9 mt-16 glass-card p-6 md:p-20 rounded-2xl text-center">
           <Counter target={3} label="Années d'expérience" />
           <Counter target={50} label="Projets réalisés" />
           <Counter target={35} label="Clients satisfaits" />
