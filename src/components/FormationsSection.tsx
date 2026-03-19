@@ -4,7 +4,7 @@ import { GraduationCap } from "lucide-react";
 const formations = [
   { year: "2023", title: "Formation en gestion de base de données", school: "Alphorm (en ligne)" },
   { year: "2022", title: "Formation en PHP", school: "Alphorm (en ligne)" },
-  { year: "2022", title: "Licence Pro en Système Iformatique et Logiciel", school: "UPAO" },
+  { year: "2022", title: "Licence Professionnelle en Système Informatique et Logiciel", school: "UPAO" },
   { year: "2019", title: "Baccalauréat Série D", school: "CEG Malanhoui" },
 ];
 
