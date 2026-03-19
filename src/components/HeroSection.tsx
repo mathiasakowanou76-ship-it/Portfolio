@@ -26,7 +26,7 @@ const HeroSection = () => (
         transition={{ duration: 0.7, delay: 0.2 }}
         className="text-4xl md:text-6xl lg:text-7xl font-display font-bold tracking-tight mb-4"
       >
-        ABESSI Mathias Akowanou
+        AGBESSI Mathias Akowanou
       </motion.h1>
 
       <motion.p
