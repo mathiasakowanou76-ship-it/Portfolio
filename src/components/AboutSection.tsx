@@ -62,7 +62,7 @@ const AboutSection = () => (
               Passionné par le design et le code
             </h3>
             <p className="text-muted-foreground leading-relaxed">
-              Graphiste et développeur web freelance, je combine créativité visuelle et expertise technique pour donner vie à des projets digitaux uniques. Ma double compétence me permet d'assurer une cohérence totale entre l'identité visuelle et l'expérience utilisateur.
+               Graphiste, Développeur Web et Mobile freelance, je combine créativité visuelle et expertise technique pour donner vie à des projets digitaux uniques. Ma double compétence me permet d'assurer une cohérence totale entre l'identité visuelle et l'expérience utilisateur.
             </p>
             <p className="text-muted-foreground leading-relaxed">
               Ma philosophie : chaque projet est une opportunité de créer quelque chose de mémorable. Je travaille en étroite collaboration avec mes clients pour comprendre leur vision et la traduire en solutions visuelles et fonctionnelles qui dépassent leurs attentes.
